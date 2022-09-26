@@ -15,7 +15,7 @@ void imprima(void) {
 int main(){
     // (declare sempre)
     void imprima(void);
-    //chame a função
+    //chame a função agora
     imprima();
 
 }
