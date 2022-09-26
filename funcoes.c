@@ -3,7 +3,7 @@
 // tipoDeRetorno nomeDaFuncao (listagem de parametros)
     {
       //  instruçoes;
-      //  retuno
+      //  retorno
     }
 
 
